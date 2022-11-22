@@ -1,0 +1,15 @@
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.exe
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.deps.json
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.runtimeconfig.json
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.dll
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.AssemblyReference.cache
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.dll
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\refint\StrategyPattern.dll
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.pdb
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
+E:\C_sharap_tutorial\Design Pattern\StrategyPattern\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
